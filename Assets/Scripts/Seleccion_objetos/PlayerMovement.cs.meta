@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 61fb6e4009256f748b6ec1a0e95447fc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - controller: {instanceID: 0}
+  - groundCheck: {instanceID: 0}
+  - fondo: {instanceID: 0}
+  - tab: {instanceID: 0}
+  - txt_titulo: {instanceID: 0}
+  - txt_colour: {instanceID: 0}
+  - txt_professions: {instanceID: 0}
+  - txt_objects: {instanceID: 0}
+  - score_colour: {instanceID: 0}
+  - score_professions: {instanceID: 0}
+  - score_objects: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
